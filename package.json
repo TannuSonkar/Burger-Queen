@@ -1,4 +1,4 @@
-{"homepage":"https://TannuSonkar.github.io/Burger-Queen",
+{"homepage": "https://tannusonkar.github.io/Burger-Queen/",
 "name":"burgerqueen","private":true,"version":"0.0.0",
 "type":"module",
 "scripts":{ "dev": "vite",
